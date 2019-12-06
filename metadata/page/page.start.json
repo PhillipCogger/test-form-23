@@ -5,10 +5,9 @@
   "heading": "Hidden functionality test form",
   "lede": "This is your start page first paragraph. You can only have one paragraph here.",
   "steps": [
-    "page.check-answers",
-    "page.test1",
     "page.test4",
-    "page.test5"
+    "page.test5",
+    "page.check-answers"
   ],
   "url": "/"
 }

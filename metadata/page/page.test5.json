@@ -1,0 +1,27 @@
+{
+  "_id": "page.test5",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.test5--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.test5--radios.auto_name__4--radio.auto_value__3",
+          "_type": "radio",
+          "label": "The good type",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.test5--radios.auto_name__4--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Aliens",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "What type of test age is this?",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "test5"
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "page.test4",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.test4--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.test4--radios.auto_name__3--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.test4--radios.auto_name__3--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "is this a test form?",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "test4"
+}

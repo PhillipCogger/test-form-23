@@ -15,7 +15,8 @@
     "value": "auto_value__1"
   },
   "steps": [
-    "page.upload-check"
+    "page.upload-check",
+    "page.document-summary"
   ],
   "url": "upload"
 }

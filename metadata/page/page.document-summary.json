@@ -1,0 +1,15 @@
+{
+  "_id": "page.document-summary",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.document-summary--upload.auto_name__2",
+      "_type": "upload",
+      "name": "auto_name__2"
+    }
+  ],
+  "steps": [
+    "page.upload_document-summary-check"
+  ],
+  "url": "document-summary"
+}

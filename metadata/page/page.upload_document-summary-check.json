@@ -1,0 +1,5 @@
+{
+  "_id": "page.upload_document-summary-check",
+  "_type": "page.uploadCheck",
+  "url": "upload/document-summary-check"
+}

@@ -5,7 +5,8 @@
   "heading": "Hidden functionality test form",
   "lede": "This is your start page first paragraph. You can only have one paragraph here.",
   "steps": [
-    "page.test4"
+    "page.test4",
+    "page.upload"
   ],
   "url": "/"
 }
